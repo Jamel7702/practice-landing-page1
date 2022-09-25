@@ -31,14 +31,14 @@ hr {
   text-transform: uppercase;
 }
 
-.btn-danger {
+.btn-primary {
   background-color: #F05F44;
   border-color: #F05F44;
 }
 
-.btn-danger:hover {
-  background-color: #F05F44;
-  border-color: #F05F44;
+.btn-primary:hover {
+  background-color: #ee4b08;
+  border-color: #ee4b09;
   border-width: 4px;
 }
 
